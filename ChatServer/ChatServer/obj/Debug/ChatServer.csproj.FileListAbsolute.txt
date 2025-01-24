@@ -1,0 +1,7 @@
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

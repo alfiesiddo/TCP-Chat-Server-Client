@@ -1,0 +1,7 @@
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatAppClient\ChatAppClient\bin\Debug\ChatAppClient.exe.config
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatAppClient\ChatAppClient\bin\Debug\ChatAppClient.exe
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatAppClient\ChatAppClient\bin\Debug\ChatAppClient.pdb
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatAppClient\ChatAppClient\obj\Debug\ChatAppClient.csproj.AssemblyReference.cache
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatAppClient\ChatAppClient\obj\Debug\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatAppClient\ChatAppClient\obj\Debug\ChatAppClient.exe
+C:\Users\Alfie Siddons\Desktop\C# Desktop Apps\ChatAppClient\ChatAppClient\obj\Debug\ChatAppClient.pdb
